@@ -1,0 +1,12 @@
+/* Michael Ressler
+ * ESOF 322
+ * Homework #4
+ * 10/10/2019
+*/
+
+public class DummyFile {
+
+//dummy file for using git. 
+
+
+}
